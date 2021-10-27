@@ -6,7 +6,7 @@
 export const environment = {
   production: false,
   SCARF_ANALYTICS: false,
-  apiUrl: '',
+  apiUrl: 'http://localhost:8888/',
   login: "SYS_LOG",
   remember: "SYS_SEC",
   isAuthGuardActive: true,
